@@ -1,4 +1,4 @@
-![Title](https://nxtkallax.de/img/toaster.jpg)
+![toaster](https://nxtkallax.de/img/toaster.jpg)
 
 ### Hi there 👋
 
