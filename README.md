@@ -4,7 +4,7 @@
 
 **nxtkallax/nxtkallax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-- 🔭 I’m currently working on my dumb website
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Danish
 - 💬 Dont ask me anything. please.
 - 📫 How to reach me: e-mail i rarely check
